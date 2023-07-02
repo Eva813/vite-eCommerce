@@ -79,7 +79,7 @@ const previousPageUser = (newPage: number) => {
   fetchData()
 }
 const nextPageUser  = (newPage: number) => {
-  console.log('nextOuter', newPage)
+  console.log('nextOuter11', newPage)
   onlineUserPagination.currentPage = newPage;
   fetchData()
 }
