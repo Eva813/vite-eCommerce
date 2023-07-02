@@ -1,9 +1,7 @@
-# vue-UI-Component-1
+# vite-eCommercce
 node: v18.15.0
 
-make reuseable components
-
-This template should help get you started developing with Vue 3 in Vite.
+嘗試製作簡易的商城，自行建立後端，實現物品新增、刪除等功能
 
 ## Recommended IDE Setup
 

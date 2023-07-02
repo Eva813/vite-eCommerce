@@ -11,21 +11,6 @@ import HelloWorld from './components/HelloWorld.vue'
       <nav>
         <RouterLink to="/">Home</RouterLink>
         <RouterLink to="/about">Button</RouterLink>
-        <RouterLink to="/paginationView">Pagination</RouterLink>
-        <RouterLink to="/switchBtnView">Switch Button</RouterLink>
-        <RouterLink to="/searchBarView">searchBarView</RouterLink>
-        <RouterLink to="/selectView">select</RouterLink>
-        <RouterLink to="/chipsView">chips</RouterLink>
-        <RouterLink to="/dialogView">Dialog</RouterLink>
-        <RouterLink to="/checkboxView">Checkbox</RouterLink>
-        <RouterLink to="/expansionView">ExpansionView</RouterLink>
-        <RouterLink to="/formsView">formsView</RouterLink>
-        <RouterLink to="/sliderView">sliderView</RouterLink>
-        <RouterLink to="/tooltipView">Tooltips</RouterLink>
-        <RouterLink to="/uploadView">Upload</RouterLink>
-        <div class="px-3">Other practice</div>
-        <RouterLink to="/testPage">TEST</RouterLink>
-        <RouterLink to="/scrollTest">scrollTest</RouterLink>
       </nav>
     </div>
   </header>
