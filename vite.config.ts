@@ -6,7 +6,7 @@ import vueJsx from '@vitejs/plugin-vue-jsx'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/vue-UI-Component-v1/',
+  base: '/vite-eCommerce/',
   plugins: [vue(), vueJsx()],
   resolve: {
     alias: {
